@@ -35,4 +35,5 @@ This project is licensed under the MIT License – feel free to use and modify i
 
 Author  
 
-Sujeet Kumar  
+Name: Sujeet Kumar  
+Email: vishwakarma.sujeet1626@gmail.com
