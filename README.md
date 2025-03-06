@@ -1,38 +1,38 @@
-# PRODIGY_CS_1
-This project, developed for the "Prodigy Infotech Internship", is a Python-based Chat Type application with "Caesar Cipher encryption &amp; decryption. It features a user-friendly "Tkinter GUI", message saving, dark mode, and a custom shift value input for secure communication. 🚀
+PRODIGY_CS_1  
 
-```md
-# 🔐 Caesar Cipher Chat Application  
+This project, developed for the Prodigy Infotech Internship, is a Python-based chat application with Caesar Cipher encryption and decryption. It features a user-friendly Tkinter GUI, message saving, dark mode, and a custom shift value input for secure communication.  
 
-## 📝 About the Project  
-This is a **Python-based Chat Application** that allows users to **encrypt and decrypt messages** using the **Caesar Cipher** algorithm. It provides a **modern UI** with message saving, selection, and deletion functionalities for secure communication.  
+Caesar Cipher Chat Application  
 
-## ⚡ Features  
-- **Encrypt & Decrypt Messages** using a shift value.  
-- **Save & Retrieve Encrypted Messages**.  
-- **Dark-Themed Modern UI** for a seamless experience.  
-- **New Chat & Select Message** functionality.  
+About the Project  
 
-## 🚀 How to Run  
+This is a Python-based chat application that allows users to encrypt and decrypt messages using the Caesar Cipher algorithm. It provides a modern UI with message saving, selection, and deletion functionalities for secure communication.  
+
+Features  
+
+- Encrypt and decrypt messages using a shift value  
+- Save and retrieve encrypted messages  
+- Dark-themed modern UI for a seamless experience  
+- New chat and select message functionality  
+
+How to Run  
+
 1. Clone this repository:  
-   ```bash
-   git clone https://github.com/sujeetkumar2003/PRODIGY_CS_1.git
-   ```
+   git clone https://github.com/sujeetkumar2003/PRODIGY_CS_1.git  
 2. Navigate to the project folder:  
-   ```bash
-   cd PRODIGY_CS_1
-   ```
+   cd PRODIGY_CS_1  
 3. Run the Python script:  
-   ```bash
-   python chat_app.py
-   ```
+   python chat_app.py  
 
-## 🛠 Technologies Used  
-- **Python** (Tkinter for GUI)  
-- **Caesar Cipher Algorithm** for encryption & decryption  
+Technologies Used  
 
-## 📜 License  
-This project is licensed under the **MIT License** – feel free to use and modify it.  
+- Python (Tkinter for GUI)  
+- Caesar Cipher algorithm for encryption and decryption  
 
-## 👤 Author  
-- **Sujeet Kumar**  
+License  
+
+This project is licensed under the MIT License – feel free to use and modify it.  
+
+Author  
+
+Sujeet Kumar  
