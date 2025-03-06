@@ -1,8 +1,6 @@
 # PRODIGY_CS_1
 This project, developed for the "Prodigy Infotech Internship", is a Python-based Chat Type application with "Caesar Cipher encryption &amp; decryption. It features a user-friendly "Tkinter GUI", message saving, dark mode, and a custom shift value input for secure communication. 🚀
 
-Here’s the **README.md** content for your project:  
-
 ```md
 # 🔐 Caesar Cipher Chat Application  
 
@@ -38,6 +36,3 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ## 👤 Author  
 - **Sujeet Kumar**  
-```  
-
-This is a **clean, professional, and well-structured** README for your project. 🚀
